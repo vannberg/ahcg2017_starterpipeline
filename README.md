@@ -9,7 +9,7 @@ Variant calling pipeline for genomic data analysis
 4. [Picard tools - version 2.6.0](https://github.com/broadinstitute/picard/releases/download/2.6.0/picard.jar)
 5. [GATK - version 3.4](https://software.broadinstitute.org/gatk/download/)
 
-## Reference genome
+## Reference genome files
 
 Reference genomes can be downloaded from [Illumina iGenomes](http://support.illumina.com/sequencing/sequencing_software/igenome.html)
 
